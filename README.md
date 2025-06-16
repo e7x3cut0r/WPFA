@@ -1,7 +1,7 @@
 ## 📡 Tool — Advanced WiFi Brute Force
 ### (Dictionary-Based Attack)
 
-![Tool Preview](1.PNG)
+![Tool Preview](auto.PNG)
 
 ## 📌 Overview
 A devilish penetration testing tool crafted by **pl7x3cut0r**, designed to break into weak WiFi networks using a dictionary attack.  

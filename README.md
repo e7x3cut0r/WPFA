@@ -1,4 +1,4 @@
-## 📡 Tool — Advanced WiFi Brute Force
+## 📡 WBFA Tool — Advanced WiFi Brute Force
 ### (Dictionary-Based Attack)
 
 ![Tool Preview](auto.PNG)
